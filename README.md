@@ -1,17 +1,33 @@
-## Project Screenshots
+# E-Commerce Website
 
-### Home Page
+A PHP-based e-commerce website with product management, admin panel, and user interface for browsing products.
 
-![Home Page](assets/images/ecommerce-home.png)
+## Features
 
-### Cart Page
+- Product listing
+- Admin dashboard
+- Product uploads
+- Responsive UI
+- Database connectivity
+- User-friendly interface
 
-![Cart Page](assets/images/ecommerce-cart.jpg)
+## Tech Stack
 
-### Login Page
+- PHP
+- MySQL
+- HTML
+- CSS
 
-![Login Page](assets/images/ecommerce-login.jpg)
+## Project Structure
 
-### Register Page
+- `admin/` → Admin dashboard
+- `css/` → Styling files
+- `images/` → Website images
+- `pages/` → Website pages
+- `uploads/` → Uploaded products/images
+- `index.php` → Main homepage
 
-![Register Page](assets/images/ecommerce-register.jpg)
+## How to Run
+
+```bash
+git clone https://github.com/krushnasrikondabattini-bit/ecommerce-website.git

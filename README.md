@@ -26,7 +26,23 @@ A PHP-based e-commerce website with product management, admin panel, and user in
 - `pages/` → Website pages
 - `uploads/` → Uploaded products/images
 - `index.php` → Main homepage
+## Project Screenshots
 
+### Home Page
+
+![Home Page](assets/images/ecommerce-home.png)
+
+### Cart Page
+
+![Cart Page](assets/images/ecommerce-cart.jpg)
+
+### Login Page
+
+![Login Page](assets/images/ecommerce-login.jpg)
+
+### Register Page
+
+![Register Page](assets/images/ecommerce-register.jpg)
 ## How to Run
 
 ```bash
